@@ -1,0 +1,7 @@
+pandas==1.3.5
+numpy==1.19.5
+PySimpleGUI==4.60.5
+pyinstaller==5.13.0
+PiPython==1.0
+scipy==1.5.4
+pywin32==227
